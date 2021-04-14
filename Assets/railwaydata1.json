@@ -1,0 +1,11 @@
+{
+  "destination" : "1",
+  "is_moving" : "false",
+  "has_reached" : "true",
+  "axis1" : "60",
+  "axis2" : "30",
+  "axis3" : "450",
+  "axs4" : -90,
+  "axis5" : ".00",
+  "axis6" : "-.00"
+}

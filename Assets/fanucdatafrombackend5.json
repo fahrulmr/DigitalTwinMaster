@@ -1,0 +1,22 @@
+{
+  "Joint1" : "0",
+  "Joint2" : "0",
+  "Joint3" : "0",
+  "Joint4" : -90,
+  "Joint5" : "90",
+  "Joint6" : "75.00",
+  "FrameX" : "1988.70",
+  "FrameY" : "93.42",
+  "FrameZ" : "958.44",
+  "FrameW" : "174.30",
+  "FrameP" : "90.00",
+  "FrameR" : "174.30",
+  "FrameCFG" : "F U T, 0, -1, 0",
+  "WorldX" : "805.25",
+  "WorldY" : ".01",
+  "WorldZ" : "464.08",
+  "WorldW" : "174.30",
+  "WorldP" : "90.00",
+  "WorldR" : "174.30",
+  "WorldCFG" : "F U T, 0, -1, 0"
+}

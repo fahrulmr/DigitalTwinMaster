@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b340139c9e4d054f904d8b452798652, type: 3}
+  m_Name: ES3Defaults
+  m_EditorClassIdentifier: 
+  settings:
+    _location: 0
+    path: fanuc5.json
+    encryptionType: 0
+    compressionType: 0
+    encryptionPassword: password
+    directory: 1
+    format: 0
+    prettyPrint: 1
+    bufferSize: 2048
+    saveChildren: 1
+    typeChecking: 1
+    safeReflection: 1
+    memberReferenceMode: 0
+    referenceMode: 2
+    serializationDepthLimit: 64
+    assemblyNames:
+    - Assembly-CSharp-firstpass
+    - Assembly-CSharp
+    - game4automation.base
+    - game4automation.tools.naughtyattributes
+    - game4automation.parts4cad
+    - game4automation.spacenavigator
+    - game4automation.interfaces.s7tcpip
+    - game4automation.editor
+    - game4automation.tools.naughtyattributes.editor
+    - game4automation.parts4cad.editor
+    - game4automation.spacenavigator.editor
+    - game4automation.interfaces.s7tcpip.editor
+    showAdvancedSettings: 1
+  addMgrToSceneAutomatically: 0
+  autoUpdateReferences: 1
+  addAllPrefabsToManager: 1
+  logDebugInfo: 0
+  logWarnings: 1
+  logErrors: 1

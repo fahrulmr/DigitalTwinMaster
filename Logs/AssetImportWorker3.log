@@ -1,0 +1,1783 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.630; Version 2004; 64bit' Language: 'en' Physical Memory: 8107 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+D:/DigitalTwinUnity2-masterC3-artikulasi
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+52018
+Successfully changed project path to: D:/DigitalTwinUnity2-masterC3-artikulasi
+D:/DigitalTwinUnity2-masterC3-artikulasi
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 87.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path D:/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/DigitalTwinUnity2-masterC3-artikulasi/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GT 1030 (ID=0x1d01)
+    Vendor:   
+    VRAM:     1982 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'D:/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56880
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002492 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 78.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.002 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003517 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.599 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.17 seconds
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1863 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2327.
+Total: 3.253400 ms (FindLiveObjects: 0.525100 ms CreateObjectMapping: 0.445400 ms MarkObjects: 2.153500 ms  DeleteObjects: 0.126900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/railwaymove.cs
+  artifactKey: Guid(372207bc5e34b6047bc196ef6513d0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/railwaymove.cs using Guid(372207bc5e34b6047bc196ef6513d0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a580241d42f5379a70d5f6e6b0a863d') in 0.320867 seconds
+  Import took 0.361312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 154.788413 seconds.
+  path: Assets/railwaymove.cs
+  artifactKey: Guid(372207bc5e34b6047bc196ef6513d0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/railwaymove.cs using Guid(372207bc5e34b6047bc196ef6513d0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f63cd3b94af6d1caab2e3ae400d265e') in 0.046790 seconds
+  Import took 0.095304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032054 seconds.
+  path: Assets/railwaymove.cs
+  artifactKey: Guid(372207bc5e34b6047bc196ef6513d0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/railwaymove.cs using Guid(372207bc5e34b6047bc196ef6513d0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000379 seconds
+  ERROR: Build asset version error: assets/railwaymove.cs in SourceAssetDB has modification time of '2021-04-12T15:01:51.5415948Z' while content on disk has modification time of '2021-04-12T15:01:51.9705962Z'
+  Import took 0.005372 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008609 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.200 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 93.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2329.
+Total: 3.807700 ms (FindLiveObjects: 0.913600 ms CreateObjectMapping: 0.250500 ms MarkObjects: 2.607900 ms  DeleteObjects: 0.033500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003171 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.721 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 6.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 93.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2331.
+Total: 2.748900 ms (FindLiveObjects: 0.323100 ms CreateObjectMapping: 0.201600 ms MarkObjects: 2.187900 ms  DeleteObjects: 0.034000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006824 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.141 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 93.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2333.
+Total: 5.441000 ms (FindLiveObjects: 0.459400 ms CreateObjectMapping: 0.236800 ms MarkObjects: 4.709600 ms  DeleteObjects: 0.033000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004620 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.926 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 93.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2335.
+Total: 4.810000 ms (FindLiveObjects: 0.477400 ms CreateObjectMapping: 0.291200 ms MarkObjects: 4.007300 ms  DeleteObjects: 0.032100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007118 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.332 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 56.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.9 MB.
+System memory in use after: 93.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2337.
+Total: 64.299900 ms (FindLiveObjects: 60.689800 ms CreateObjectMapping: 0.268000 ms MarkObjects: 3.312400 ms  DeleteObjects: 0.028100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005976 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.770 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2339.
+Total: 5.927400 ms (FindLiveObjects: 0.539600 ms CreateObjectMapping: 0.668600 ms MarkObjects: 4.615000 ms  DeleteObjects: 0.101600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010774 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.234 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2341.
+Total: 2.197800 ms (FindLiveObjects: 0.260000 ms CreateObjectMapping: 0.099600 ms MarkObjects: 1.799500 ms  DeleteObjects: 0.037000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.020238 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.325 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2343.
+Total: 4.820600 ms (FindLiveObjects: 0.472500 ms CreateObjectMapping: 0.140600 ms MarkObjects: 4.175100 ms  DeleteObjects: 0.029900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004640 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.079 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2345.
+Total: 4.192800 ms (FindLiveObjects: 0.477800 ms CreateObjectMapping: 0.338300 ms MarkObjects: 3.342800 ms  DeleteObjects: 0.031600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007282 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  5.164 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 93.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2347.
+Total: 196.577100 ms (FindLiveObjects: 60.489200 ms CreateObjectMapping: 130.712100 ms MarkObjects: 5.316800 ms  DeleteObjects: 0.055500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006463 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.300 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2349.
+Total: 6.343200 ms (FindLiveObjects: 0.410200 ms CreateObjectMapping: 0.242700 ms MarkObjects: 5.575000 ms  DeleteObjects: 0.113000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005480 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.570 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2351.
+Total: 53.188400 ms (FindLiveObjects: 16.079600 ms CreateObjectMapping: 0.263400 ms MarkObjects: 36.809700 ms  DeleteObjects: 0.033000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010682 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.397 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2353.
+Total: 3.401300 ms (FindLiveObjects: 0.495900 ms CreateObjectMapping: 0.197400 ms MarkObjects: 2.676100 ms  DeleteObjects: 0.029500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008365 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.549 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2355.
+Total: 3.414100 ms (FindLiveObjects: 0.420100 ms CreateObjectMapping: 0.251000 ms MarkObjects: 2.700700 ms  DeleteObjects: 0.039700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005902 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.656 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 93.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2357.
+Total: 3.000400 ms (FindLiveObjects: 0.308500 ms CreateObjectMapping: 0.139900 ms MarkObjects: 2.495500 ms  DeleteObjects: 0.054400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004956 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.108 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2359.
+Total: 4.248600 ms (FindLiveObjects: 0.589600 ms CreateObjectMapping: 0.139600 ms MarkObjects: 3.482600 ms  DeleteObjects: 0.034200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003158 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.761 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2361.
+Total: 25.165400 ms (FindLiveObjects: 1.104900 ms CreateObjectMapping: 0.139200 ms MarkObjects: 23.886300 ms  DeleteObjects: 0.033000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003430 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.302 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2363.
+Total: 4.296500 ms (FindLiveObjects: 0.356300 ms CreateObjectMapping: 0.149600 ms MarkObjects: 3.753400 ms  DeleteObjects: 0.035200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002353 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.116 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2365.
+Total: 2.477300 ms (FindLiveObjects: 0.403300 ms CreateObjectMapping: 0.117200 ms MarkObjects: 1.929500 ms  DeleteObjects: 0.025900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007118 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.489 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 93.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2367.
+Total: 6.373400 ms (FindLiveObjects: 1.024400 ms CreateObjectMapping: 0.214000 ms MarkObjects: 5.045400 ms  DeleteObjects: 0.086400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009682 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.447 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2369.
+Total: 6.415800 ms (FindLiveObjects: 0.336400 ms CreateObjectMapping: 0.101100 ms MarkObjects: 5.940100 ms  DeleteObjects: 0.036200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003431 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.050 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2371.
+Total: 3.743500 ms (FindLiveObjects: 0.425000 ms CreateObjectMapping: 0.208400 ms MarkObjects: 3.073300 ms  DeleteObjects: 0.034300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006095 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.735 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2373.
+Total: 3.179100 ms (FindLiveObjects: 0.398200 ms CreateObjectMapping: 0.242400 ms MarkObjects: 2.477100 ms  DeleteObjects: 0.059200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007682 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in 12.090 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2375.
+Total: 35.654200 ms (FindLiveObjects: 0.477600 ms CreateObjectMapping: 0.253900 ms MarkObjects: 34.789000 ms  DeleteObjects: 0.131400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.027419 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.009 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2377.
+Total: 2.317600 ms (FindLiveObjects: 0.306000 ms CreateObjectMapping: 0.189100 ms MarkObjects: 1.794900 ms  DeleteObjects: 0.025700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.022398 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  4.610 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2379.
+Total: 4.231800 ms (FindLiveObjects: 0.566200 ms CreateObjectMapping: 0.435600 ms MarkObjects: 3.190000 ms  DeleteObjects: 0.037600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004992 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.617 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2381.
+Total: 4.721400 ms (FindLiveObjects: 0.565000 ms CreateObjectMapping: 0.187400 ms MarkObjects: 3.939000 ms  DeleteObjects: 0.028000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010673 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.949 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2383.
+Total: 5.979300 ms (FindLiveObjects: 0.411400 ms CreateObjectMapping: 0.234100 ms MarkObjects: 5.294300 ms  DeleteObjects: 0.037700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002434 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.480 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2385.
+Total: 5.710600 ms (FindLiveObjects: 0.311100 ms CreateObjectMapping: 0.121900 ms MarkObjects: 5.247600 ms  DeleteObjects: 0.028000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003059 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.341 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2387.
+Total: 3.919700 ms (FindLiveObjects: 0.899300 ms CreateObjectMapping: 0.188000 ms MarkObjects: 2.793100 ms  DeleteObjects: 0.036900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003501 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.337 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2389.
+Total: 7.650000 ms (FindLiveObjects: 4.429000 ms CreateObjectMapping: 0.139300 ms MarkObjects: 3.033800 ms  DeleteObjects: 0.046200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003917 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.841 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2391.
+Total: 3.438900 ms (FindLiveObjects: 0.425400 ms CreateObjectMapping: 0.186400 ms MarkObjects: 2.728900 ms  DeleteObjects: 0.095900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004132 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.244 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2393.
+Total: 5.150300 ms (FindLiveObjects: 0.340200 ms CreateObjectMapping: 0.115900 ms MarkObjects: 4.652700 ms  DeleteObjects: 0.039700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.050220 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.355 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2395.
+Total: 3.137100 ms (FindLiveObjects: 0.361100 ms CreateObjectMapping: 0.138700 ms MarkObjects: 2.600600 ms  DeleteObjects: 0.034500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.065753 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.810 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2397.
+Total: 3.685900 ms (FindLiveObjects: 0.773800 ms CreateObjectMapping: 0.211000 ms MarkObjects: 2.666900 ms  DeleteObjects: 0.030900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 47055.164133 seconds.
+  path: Assets/targetrailwaymove.cs
+  artifactKey: Guid(97bdb63cd9232ba4f817f9b1cd4728af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/targetrailwaymove.cs using Guid(97bdb63cd9232ba4f817f9b1cd4728af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef1e9b152cc5fbe884b71aefe1721167') in 0.393808 seconds
+  Import took 0.476466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.144157 seconds.
+  path: Assets/targetrailwaymove.cs
+  artifactKey: Guid(97bdb63cd9232ba4f817f9b1cd4728af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/targetrailwaymove.cs using Guid(97bdb63cd9232ba4f817f9b1cd4728af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45437fc4d2554da3d902c7c9bf193b44') in 0.070050 seconds
+  Import took 0.168629 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003374 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.592 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2400.
+Total: 2.267100 ms (FindLiveObjects: 0.414600 ms CreateObjectMapping: 0.290300 ms MarkObjects: 1.535200 ms  DeleteObjects: 0.024700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 2.674876 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in 10.605 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2402.
+Total: 2.780600 ms (FindLiveObjects: 0.268500 ms CreateObjectMapping: 0.087800 ms MarkObjects: 2.391400 ms  DeleteObjects: 0.031600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003760 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.992 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.3 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2404.
+Total: 13.309700 ms (FindLiveObjects: 0.943600 ms CreateObjectMapping: 0.522100 ms MarkObjects: 11.768300 ms  DeleteObjects: 0.070400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002385 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.990 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.3 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2406.
+Total: 2.290900 ms (FindLiveObjects: 0.307800 ms CreateObjectMapping: 0.081100 ms MarkObjects: 1.874400 ms  DeleteObjects: 0.026000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006544 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.530 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.3 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2408.
+Total: 2.995200 ms (FindLiveObjects: 0.291900 ms CreateObjectMapping: 0.105600 ms MarkObjects: 2.559200 ms  DeleteObjects: 0.036400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003874 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.271 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.2 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2410.
+Total: 4.078500 ms (FindLiveObjects: 0.632000 ms CreateObjectMapping: 0.414200 ms MarkObjects: 3.001100 ms  DeleteObjects: 0.029200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004423 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.182 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.3 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2412.
+Total: 3.334800 ms (FindLiveObjects: 0.461300 ms CreateObjectMapping: 0.295600 ms MarkObjects: 2.545400 ms  DeleteObjects: 0.030000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003274 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.659 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.3 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2414.
+Total: 3.230000 ms (FindLiveObjects: 0.475600 ms CreateObjectMapping: 0.146300 ms MarkObjects: 2.573100 ms  DeleteObjects: 0.033100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002312 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.144 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.3 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2416.
+Total: 3.996300 ms (FindLiveObjects: 0.714100 ms CreateObjectMapping: 0.277000 ms MarkObjects: 2.959800 ms  DeleteObjects: 0.043000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7195.853200 seconds.
+  path: Assets/railwaydata1.json
+  artifactKey: Guid(deb0978d8966a4646ba0e0f932bc0033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/railwaydata1.json using Guid(deb0978d8966a4646ba0e0f932bc0033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9a0e8193dfbfe3bf1a1aee7ba6cebea') in 0.425001 seconds
+  Import took 0.442739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.290436 seconds.
+  path: Assets/railwaydata.json
+  artifactKey: Guid(a1dd59c3a2844d94abfad27b2390175d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/railwaydata.json using Guid(a1dd59c3a2844d94abfad27b2390175d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c12e20f5b2397e19d7783fe0e7507e') in 0.008036 seconds
+  Import took 0.014574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009515 seconds.
+  path: Assets/railwaydata.json
+  artifactKey: Guid(a1dd59c3a2844d94abfad27b2390175d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/railwaydata.json using Guid(a1dd59c3a2844d94abfad27b2390175d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c12e20f5b2397e19d7783fe0e7507e') in 0.019173 seconds
+  Import took 0.023199 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003796 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.529 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2418.
+Total: 8.828700 ms (FindLiveObjects: 0.806900 ms CreateObjectMapping: 1.762400 ms MarkObjects: 6.225800 ms  DeleteObjects: 0.030700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002269 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.890 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.4 MB.
+System memory in use after: 93.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2420.
+Total: 3.141400 ms (FindLiveObjects: 0.447100 ms CreateObjectMapping: 0.159000 ms MarkObjects: 2.503600 ms  DeleteObjects: 0.029800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002559 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.192 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2422.
+Total: 11.103500 ms (FindLiveObjects: 8.230100 ms CreateObjectMapping: 0.217800 ms MarkObjects: 2.620100 ms  DeleteObjects: 0.032700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005114 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.219 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2424.
+Total: 4.924500 ms (FindLiveObjects: 0.350600 ms CreateObjectMapping: 2.131800 ms MarkObjects: 2.405600 ms  DeleteObjects: 0.034600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003946 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.223 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2426.
+Total: 1.973600 ms (FindLiveObjects: 0.271700 ms CreateObjectMapping: 0.084600 ms MarkObjects: 1.591700 ms  DeleteObjects: 0.023700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.018641 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.171 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2428.
+Total: 11.871300 ms (FindLiveObjects: 1.323500 ms CreateObjectMapping: 0.270200 ms MarkObjects: 10.244300 ms  DeleteObjects: 0.030900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003781 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.574 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.4 MB.
+System memory in use after: 93.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2430.
+Total: 2.939600 ms (FindLiveObjects: 0.317200 ms CreateObjectMapping: 0.091300 ms MarkObjects: 2.465500 ms  DeleteObjects: 0.036100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014792 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.360 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2432.
+Total: 3.894900 ms (FindLiveObjects: 0.326400 ms CreateObjectMapping: 0.166500 ms MarkObjects: 3.354800 ms  DeleteObjects: 0.044900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003464 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.903 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2434.
+Total: 2.931300 ms (FindLiveObjects: 0.382100 ms CreateObjectMapping: 0.138300 ms MarkObjects: 2.365800 ms  DeleteObjects: 0.043500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004723 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.343 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2436.
+Total: 2.075300 ms (FindLiveObjects: 0.272900 ms CreateObjectMapping: 0.087500 ms MarkObjects: 1.682800 ms  DeleteObjects: 0.030000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004197 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.732 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2438.
+Total: 3.493900 ms (FindLiveObjects: 0.594000 ms CreateObjectMapping: 0.226700 ms MarkObjects: 2.618400 ms  DeleteObjects: 0.052700 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.3 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2438.
+Total: 88.977300 ms (FindLiveObjects: 1.947000 ms CreateObjectMapping: 0.103900 ms MarkObjects: 86.805500 ms  DeleteObjects: 0.118300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.049147 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+NullReferenceException: Object reference not set to an instance of an object
+  at InstalledPackages.InitializeOnLoad () [0x0004c] in C:\Users\USER\Desktop\develop\DigitalTwinUnity2-masterC3\Assets\game4automation\private\Editor\OnLoad.cs:38 
+
+(Filename: C:/Users/USER/Desktop/develop/DigitalTwinUnity2-masterC3/Assets/game4automation/private/Editor/OnLoad.cs Line: 38)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  9.314 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1842 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2440.
+Total: 18.188100 ms (FindLiveObjects: 15.404000 ms CreateObjectMapping: 0.615800 ms MarkObjects: 2.125100 ms  DeleteObjects: 0.041300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
